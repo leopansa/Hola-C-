@@ -1,2 +1,3 @@
-# Hola-C-
-Laboratorio de practica
+# Hola C#
+Laboratorio de practica de aspectos de programación
+

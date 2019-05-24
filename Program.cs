@@ -7,6 +7,7 @@ namespace hola_mundo
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo!");
+            Console.WriteLine("Buscando a Jaime...");
         }
     }
 }
